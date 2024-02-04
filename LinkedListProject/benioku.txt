@@ -1,0 +1,2 @@
+Kodu çalıştırırken lütfen mingw32-make komutunu kullanınız. 
+Ortalamalar konusunda başta yuvarlamıştım dosyadaki gibi bir çıktı alıyordum ancak Fatih Hocayla konuştuğumuzda bize double kalsın yuvarlamayın dediği için yuvarlanmamış haline döndürdüm.
