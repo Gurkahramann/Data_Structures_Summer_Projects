@@ -11,7 +11,8 @@ This project focuses on manipulating singly linked lists to store and process tw
   - Tens digits are placed in a singly linked list pointing upwards.
   - Units digits are placed in a singly linked list pointing downwards.
 - **User Interaction**:
-  - Users are prompted to enter two indices, one for each list.
+  - Users are prompted to enter index numbers which correspond to the lists. As a result, the selected lists swap places with each other.
+  - The averages are then calculated in sequence for all elements, starting with the first nodes and then the second nodes of each list, and so on.
   - The program calculates the average of the nodes at these indices.
 - **Output**:
   - Displays the sum of averages from the top and bottom lists.
